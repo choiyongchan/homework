@@ -13,5 +13,4 @@ public class MessageRequestDto {
     private final String password;
     private final String content;
 
-
 }
